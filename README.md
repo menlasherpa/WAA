@@ -1,2 +1,2 @@
 # WAA
-CS-545
+Web Application Architecture (CS-545)
