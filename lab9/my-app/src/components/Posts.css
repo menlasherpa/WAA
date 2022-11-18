@@ -1,0 +1,35 @@
+.posts {
+  background-color: blue;
+  color: white;
+  width: 20%;
+  margin-left: 100px;
+  margin-top: 40px;
+  display: inline-block;
+  padding: 15px;
+}
+
+.posts {
+  width: 100%;
+  margin: auto;
+}
+
+.post {
+  float: left;
+  border: 1px solid grey;
+  color: white;
+  background-color: cornflowerblue;
+  padding: 15px;
+  margin: 15px;
+  text-align: center;
+}
+
+.postDetail, .addPost {
+  border: 2px solid cornflowerblue;
+  padding: 15px;
+  display: inline-block;
+  margin: 15px;
+}
+
+.title {
+  text-decoration: underline;
+}
